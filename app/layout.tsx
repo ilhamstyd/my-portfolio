@@ -19,6 +19,10 @@ export default function RootLayout({
       <head>
         <title>Ilham Setyadji Hermawan</title>
         <meta name="portofolio" content="Portofolio ilham setyadji" />
+        <meta
+          name="google-site-verification"
+          content="Mv0_mn3yFK_FSYYuLfa5GpKxtdF5tgenjCMu_lg4GLs"
+        />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/assets/apple-icon.png" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />

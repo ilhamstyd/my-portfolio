@@ -87,7 +87,7 @@ const Navbar = () => {
                 animate={{ y: 0, opacity: 1 }}
                 transition={{ duration: 0.1, delay: 0.2 }}
               >
-                <span>03.</span> Experience
+                <span>02.</span> Experience
               </motion.li>
             </Link>
             <Link
@@ -100,7 +100,7 @@ const Navbar = () => {
                 animate={{ y: 0, opacity: 1 }}
                 transition={{ duration: 0.1, delay: 0.3 }}
               >
-                <span>03</span> Project
+                <span>03.</span> Project
               </motion.li>
             </Link>
             <Link
